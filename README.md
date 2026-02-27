@@ -107,7 +107,7 @@ Place it in the root directory before training.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/slingshot-secure.git
+git clone https://github.com/ManmohanBora/Phishing-Email.git
 cd slingshot-secure
 ```
 
@@ -182,7 +182,7 @@ This ensures transparency and performance validation.
 
 ## 👨‍💻 Author
 
-Manmohan Bora  |  Shreya Chikane
+Manmohan Bora  |  Shreya Chikane      
 Data Analyst | ML Enthusiast | AI Security Explorer  
 
 ---
