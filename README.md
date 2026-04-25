@@ -1,4 +1,4 @@
-# 🛡️ Slingshot Secure – AI-Powered Phishing Email Detection System
+# 🛡️ Slingshot Secure – AI Powered Phishing Email Detection System
 
 ## 📌 Project Overview
 
